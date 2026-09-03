@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: <crnturis>/app-demo:latest
+        image: crnturis/app-demo:d431e746831c9e9b48ad7f701fa88c8e395348c8
         ports:
         - containerPort: 80
 ---
